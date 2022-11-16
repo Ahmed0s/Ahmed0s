@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmed0s
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on linux projects
+- 👀 I’m interested in Embedded syestem
+- 🌱 I’m currently learning Embedded syestem
+- 💞️ I’m looking to collaborate on emdded syestem works
 - 📫 How to reach me ahmedmid346@gmail.com
 
 <!---
